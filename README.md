@@ -71,5 +71,5 @@ THE SOFTWARE.
 ```
 ###Demo
 ```bash
-![Preview](./assets/preview.png)
+![Preview](./assets/Demo.png)
 ```

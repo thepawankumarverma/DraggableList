@@ -46,7 +46,9 @@ cd draggable-task-list
 npm install
 npm run dev
 MIT License
-
+```
+### 2. License
+```bash
 Copyright (c) 2025 Pawan Kumar Verma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -66,3 +68,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+```

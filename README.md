@@ -41,7 +41,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/draggable-task-list.git
+git clone [https://github.com/your-username/draggable-task-list.git](https://github.com/thepawankumarverma/DraggableList.git)
 cd draggable-task-list
 npm install
 npm run dev
